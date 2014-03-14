@@ -6,4 +6,6 @@ else
 	echo "Directory data/$1/$2 already exists"
 fi
 vi data/$1/$2/notes
+bonk
 
+hi
