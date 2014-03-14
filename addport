@@ -7,3 +7,4 @@ else
 fi
 vi data/$1/$2/notes
 
+hi
