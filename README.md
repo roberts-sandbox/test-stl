@@ -11,3 +11,6 @@ This is a quick site I built using [Flask](http://flask.pocoo.org) and hosted on
 # Todo
 
 Make some scripts to collect data automagically for the site.
+
+
+beep
